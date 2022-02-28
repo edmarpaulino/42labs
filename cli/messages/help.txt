@@ -1,0 +1,6 @@
+Usage: cli42labs [options..., text...]
+
+  -h, --help                Display the help menu
+  -n, --number [<text>]     Prints the number of logs, if a text is passed, prints all logs that contain the occurrence of the text
+  -t, --target <text>       Prints all logs that contain the occurrence of the text passed
+
